@@ -1,0 +1,101 @@
+body{
+  background-color: rgb(255, 255, 255) !important;
+}
+
+// navbar start
+
+
+
+#navbar-nav{
+  margin: 0 auto;
+  float: none;
+}
+#topNav {
+  background-color: #56AB2F;
+  color: #ffffff;
+  padding: 15px 0;
+  display: block;
+}
+.log{
+  text-decoration: none;
+  color: white;
+}
+
+
+// navbarend
+
+
+
+//ERROR
+#error1{
+  background: url("../img/erorr.jpg") no-repeat center bottom;
+  background-size: cover;
+  min-height: 300px;
+}
+.dark-overlay{
+  background-color: rgba(0, 0, 0, 0.39);
+  min-height: 300px;
+}
+.home-inner1{
+  padding-top: 100px;
+}
+
+
+
+#error2{
+  margin: 50px 0;
+}
+#error2 .errorW h1{
+  font-size: 146px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 40px;
+}
+.errorT{
+  color: #56AB2F;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.imgError{
+  width: 100% !important;
+}
+.btn{
+  border: 1px solid rgb(175, 175, 175) !important;
+}
+
+
+//FOOTER
+#footer1{
+  background: rgb(48, 48, 48);
+  color: #fff;
+}
+.footW{
+  display: block;
+  text-decoration: none;
+  color: white;
+}
+.hr{
+  border-bottom: 1px solid rgb(54, 175, 54);
+  padding-bottom: 50px;
+}
+.link{
+  display: flex;
+}
+.flickerPhoto{
+  width: 100%;
+}
+#footer2{
+  padding: 30px;
+  background-color:rgb(48, 48, 48);
+  color: #fff;
+}
+#footer2 i{
+  color: #fff;
+  padding: 15px;
+  border: 1px solid #fff;
+}
+#footer2 i:hover{
+  color: rgb(54, 175, 54);
+}
